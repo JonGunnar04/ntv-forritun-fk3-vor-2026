@@ -1,4 +1,4 @@
-import type { Product } from "@/types/product.js";
+import type { Product } from "../types/product.js";
 
 const MOCK_PRODUCTS: Product[] = [
   { id: "1", name: "Apple", price: 150 },
